@@ -9,7 +9,7 @@ by Glecy Elizalde, Christopher Joseph Rubinos, Carlo Antonio T. Taleon (BSCS-3A)
 
 st.sidebar.header('💻 User Input Parameters')
 
-model = load_model("DataMiningAct4\gender_suicide_rate_regression_model.h5")
+model = load_model("gender_suicide_rate_regression_model.h5")
 
 
 def user_input_features():
